@@ -8,11 +8,15 @@ body{
 
 }
 
+h1{
+        color:#ffb3dc;
+}
+
 h3{
-        color: #FF0087;
+        color: #ff3f4f;
 }
 .jumbotron{
-        background-color: #FF0087 ;
+        background-color: #ff3f4f ;
 }
 
 .container{
@@ -20,4 +24,7 @@ h3{
 }
 @media screen and (max-widht=450px) {
         
+}
+#img{
+        border-radius: 0%;
 }
